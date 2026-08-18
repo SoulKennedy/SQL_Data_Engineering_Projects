@@ -58,6 +58,4 @@ CREATE TABLE skills_job_dim (
 );
 
 -- Verify tables were created
-
-
 SHOW TABLES;

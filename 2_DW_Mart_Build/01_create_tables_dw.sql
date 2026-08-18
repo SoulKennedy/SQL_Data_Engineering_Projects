@@ -1,1 +1,1 @@
---- Step1; DW create star schema tables
+--- Step1: DW create star schema tables
